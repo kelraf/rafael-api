@@ -6,7 +6,7 @@
 
         private $table_one = "users";
         private $table_two = "images";
-        private $table_three = "posts";
+        private $table_three = "posts"; 
 
         private $db;
 
